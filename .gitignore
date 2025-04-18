@@ -1,0 +1,18 @@
+# Ignore Python cache and virtual env
+__pycache__/
+*.py[cod]
+*.log
+venv310*/
+env*/
+*.env
+model
+
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+# Ignore sensitive or unwanted files
+final tokens.json
+
+# VS Code settings (optional)
+.vscode/
