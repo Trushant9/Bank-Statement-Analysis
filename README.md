@@ -3,22 +3,22 @@
 # Description
 Developed a Bank Statement Analyzer using Python to extract, clean and analyze transaction data from pdf files of bank statements.
 
-## 🚀 Features
-- 📄 Extracts text and transaction tables from bank statement PDFs  
-- 🔍 Categorizes transactions based on payment mode using narration details  
-- 📊 Provides insightful and easy-to-understand analysis  
-- 💡 Helps assess a user’s capability to get a personal loan based on various factors  
+## Features
+- Extracts text and transaction tables from bank statement PDFs  
+- Categorizes transactions based on payment mode using narration details  
+- Provides insightful and easy-to-understand analysis  
+- Helps assess a user’s capability to get a personal loan based on various factors  
 
 ---
 
-## 🔧 Technologies Used
+## Technologies Used
 - **Python**  
 - **Libraries**: `pandas`, `numpy`, `pdfplumber`  
 - **Machine Learning** (used for categorization and prediction logic, if applicable)
 
 ---
 
-## 📁 Folder Structure
+## Folder Structure
 - **Table Extraction**:  
   Contains scripts that process bank PDFs and extract relevant tables based on the bank name.
   
@@ -27,7 +27,7 @@ Developed a Bank Statement Analyzer using Python to extract, clean and analyze t
 
 ---
 
-## ⚙️ How It Works
+## How It Works
 
 **What it does:**  
 This project analyzes PDF bank statements to evaluate if a user qualifies for a personal loan. It is useful for both financial institutions and individual users.
@@ -46,11 +46,11 @@ This project analyzes PDF bank statements to evaluate if a user qualifies for a 
 
 ---
 
-## 💡 Why I Built This
+## Why I Built This
 I created this project to simplify the loan eligibility process.  
 It empowers not only **bank employees** but also **individual users** to easily check if someone qualifies for a personal loan based on real-time data extracted and analyzed from their bank statements.
 
 ---
 
-## 👨‍💻 Author
+## Author
 **Trushant Jagdish**
