@@ -43,6 +43,22 @@ This project analyzes PDF bank statements to evaluate if a user qualifies for a 
    - Salary Credits  
    - Daily Balance Overview  
 6. After reviewing the analysis tables, users or bank staff can decide whether the account shows eligibility for a personal loan.
+   
+---
+
+## Note:
+
+- **Supported Banks** (currently):
+  - HDFC Bank
+  - AU Small Finance Bank
+  - Canara Bank
+  - Bank of Maharashtra
+  - Axis Bank
+
+- **To Run the App**:
+  Open your VS Code terminal and run:
+  ```cmd
+  streamlit run main.py
 
 ---
 
